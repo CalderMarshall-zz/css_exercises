@@ -1,0 +1,78 @@
+#box1 {
+  left: 0%;
+  right: 0%;
+  position: absolute;
+  height: 33.33%;
+  width: 33.33%;
+  background-color: rgb(49, 28, 131);
+}
+#box2 {
+  position: absolute;
+  left: 33.33%;
+  height: 33.33%;
+  width: 33.33%;
+  background-color: rgb(54, 226, 194);
+}
+#box3 {
+  position: absolute;
+  left: 66.66%;
+  height: 33.33%;
+  width: 33.33%;
+  background-color: rgb(181, 97, 20);
+}
+#box4 {
+  left: 0%;
+  right: 0%;
+  top: 33.33%;
+  position: absolute;
+  height: 33.33%;
+  width: 33.33%;
+  background-color: rgb(19, 154, 73);
+}
+#box5 {
+  position: absolute;
+  left: 33.33%;
+  height: 33.33%;
+  width: 33.33%;
+  top: 33.33%;
+  background-color: rgb(156, 32, 147);
+}
+#box6 {
+  position: absolute;
+  left: 66.66%;
+  height: 33.33%;
+  width: 33.33%;
+  top: 33.33%;
+  background-color: rgb(162, 12, 48);
+}
+#box7 {
+  left: 0%;
+  right: 0%;
+  position: absolute;
+  height: 33.33%;
+  width: 33.33%;
+  top: 66.66%;
+  background-color: rgb(49, 28, 131);
+}
+#box8 {
+  position: absolute;
+  left: 33.33%;
+  height: 33.33%;
+  width: 33.33%;
+  top: 66.66%;
+  background-color: rgb(54, 226, 194);
+}
+#box9 {
+  position: absolute;
+  left: 66.66%;
+  height: 33.33%;
+  width: 33.33%;
+  top: 66.66%;
+  background-color: rgb(181, 97, 20);
+}
+
+body{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
